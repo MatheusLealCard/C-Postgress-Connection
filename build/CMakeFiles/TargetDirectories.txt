@@ -1,0 +1,3 @@
+/Users/luna/Documents/c++/lipq/build/CMakeFiles/main.dir
+/Users/luna/Documents/c++/lipq/build/CMakeFiles/edit_cache.dir
+/Users/luna/Documents/c++/lipq/build/CMakeFiles/rebuild_cache.dir
